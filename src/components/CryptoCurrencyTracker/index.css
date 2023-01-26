@@ -1,0 +1,10 @@
+.bg-container {
+  background-color: black;
+  padding: 100px;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
